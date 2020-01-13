@@ -1,0 +1,2 @@
+FLASK_APP=raidbosslite.py
+FLASK_ENV=development
